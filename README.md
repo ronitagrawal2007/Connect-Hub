@@ -151,6 +151,8 @@ https://github.com/ronitagrawal2007/Connect-Hub.git
 
 ## App Link
 
+https://github.com/ronitagrawal2007/Connect-Hub/releases/tag/v1.0.0
+
 ## Image
 <img src="https://github.com/user-attachments/assets/21eec341-4d51-45d0-8227-d5f2543baadf" alt="Screenshot 1" width="300" />
 <img src="https://github.com/user-attachments/assets/843820d2-a286-488c-b11f-53c9a308855c" alt="Screenshot 2" width="300" />
