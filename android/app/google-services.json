@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651564935590",
+    "project_id": "connect-hub-9243c",
+    "storage_bucket": "connect-hub-9243c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651564935590:android:fddfdaff37426f65b84767",
+        "android_client_info": {
+          "package_name": "com.example.connect_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAaQBc2MWjSW47N26Hle2hFB4SGgWH2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
