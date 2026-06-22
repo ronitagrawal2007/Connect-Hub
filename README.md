@@ -152,24 +152,25 @@ https://github.com/ronitagrawal2007/Connect-Hub.git
 ## App Link
 
 ## Image
-
-<img src="https://github.com/user-attachments/assets/58e8c9f1-0e33-4f0f-a1c2-9cf7467c6a0f" width="300" alt="Image 1" />
-<img src="https://github.com/user-attachments/assets/beef3b13-cb50-47ee-a3b6-044c92ddfb79" width="300" alt="Image 2" />
-<img src="https://github.com/user-attachments/assets/789546c6-2e74-4b2a-b964-e697abefa024" width="300" alt="Image 3" />
-<img src="https://github.com/user-attachments/assets/060de960-1974-433d-a1ca-eea8375ac15d" width="300" alt="Image 4" />
-<img src="https://github.com/user-attachments/assets/231dc579-a965-49c4-a2a7-9776558b755d" width="300" alt="Image 5" />
-<img src="https://github.com/user-attachments/assets/d5a21459-6f48-4d7c-ae66-125f91a331b4" width="300" alt="Image 6" />
-<img src="https://github.com/user-attachments/assets/00de3364-fe25-4ab3-94a8-9fb3f19a4c2e" width="300" alt="Image 7" />
-<img src="https://github.com/user-attachments/assets/e04219ef-4908-4137-b3dc-eac6c4d29d40" width="300" alt="Image 8" />
-<img src="https://github.com/user-attachments/assets/77b62113-9664-4fd4-95c0-1a6296e2dc8a" width="300" alt="Image 9" />
-<img src="https://github.com/user-attachments/assets/efc04bde-4c5c-4c74-b111-9186cffee90e" width="300" alt="Image 10" />
-<img src="https://github.com/user-attachments/assets/5205a4ec-9d4f-499b-8948-737a2bfb9101" width="300" alt="Image 11" />
-<img src="https://github.com/user-attachments/assets/46b77ad0-5052-46cd-b1f2-b18823fd4852" width="300" alt="Image 12" />
-<img src="https://github.com/user-attachments/assets/042e3cf7-bf3c-4b46-b1f1-10ef15c7df02" width="300" alt="Image 13" />
+<img src="https://github.com/user-attachments/assets/21eec341-4d51-45d0-8227-d5f2543baadf" alt="Screenshot 1" width="300" />
+<img src="https://github.com/user-attachments/assets/843820d2-a286-488c-b11f-53c9a308855c" alt="Screenshot 2" width="300" />
+<img src="https://github.com/user-attachments/assets/9caffb9e-e4f4-45bd-9ba5-beb08c7ed4a9" alt="Screenshot 3" width="300" />
+<img src="https://github.com/user-attachments/assets/53414cfa-0822-472b-bf45-f7783eb30dc3" alt="Screenshot 4" width="300" />
+<img src="https://github.com/user-attachments/assets/ba59806c-5df0-4e30-9e42-30345cfd6a45" alt="Screenshot 5" width="300" />
+<img src="https://github.com/user-attachments/assets/9563f02b-6f52-4dba-b03f-dc137c150943" alt="Screenshot 6" width="300" />
+<img src="https://github.com/user-attachments/assets/291a0a03-80e8-4251-ad7a-68133cd90c35" alt="Screenshot 7" width="300" />
+<img src="https://github.com/user-attachments/assets/7ce7bfed-8396-4cee-ade3-7df1b9e3c54a" alt="Screenshot 8" width="300" />
+<img src="https://github.com/user-attachments/assets/0d028308-d670-4146-84e5-f39632acedb7" alt="Screenshot 9" width="300" />
+<img src="https://github.com/user-attachments/assets/cc9feb8d-c3e6-4eb9-9e20-cbdae540c442" alt="Screenshot 10" width="300" />
+<img src="https://github.com/user-attachments/assets/1e1057ba-ccc5-4110-8f00-8f427f9ae27b" alt="Screenshot 11" width="300" />
+<img src="https://github.com/user-attachments/assets/caf2755c-3ab3-402f-b070-bb3a7b15e9a5" alt="Screenshot 12" width="300" />
+<img src="https://github.com/user-attachments/assets/53e86c4e-366e-4ef3-9602-c42a7c392610" alt="Screenshot 13" width="300" />
 
 ## Video
 
-https://github.com/user-attachments/assets/dfdc2829-5669-418e-a5f1-8e8bccd6167b
+
+https://github.com/user-attachments/assets/eb862fd7-6d53-4cba-9441-9f6ab4035e03
+
 
 ## 🙌 Credits
 
